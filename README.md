@@ -28,3 +28,5 @@ Test your server by visiting this route in the browser:
 #### Deliverables
 
 As a user, I can:
+ be able to select clothes
+ know which clothes are available
